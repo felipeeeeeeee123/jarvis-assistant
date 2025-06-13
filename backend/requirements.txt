@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-dotenv
+alpaca-py
+spotipy
+discord.py
+openai
+pyttsx3
+whisper
+ffmpeg-python
+
