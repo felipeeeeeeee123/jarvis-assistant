@@ -8,4 +8,6 @@ openai
 pyttsx3
 whisper
 ffmpeg-python
+duckduckgo-search
+yfinance
 
